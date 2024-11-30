@@ -1,8 +1,25 @@
-# React + Vite
+# React + Vite WAOW Live Coding
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Clone this repo or download .zip this repo. If you want clone this repo, please run this script:
+
+```bash
+$ git clone https://github.com/nuflakbrr/waow-live-coding.git <name_project>
+```
+
+- After that, you can install all depedencies in this project by running:
+
+```bash
+$ npm install
+```
+
+- Then, run server development by running:
+
+```bash
+$ npm run dev
+```
+
+- Finally, you can check your browser via [http://localhost:5173/](http://localhost:5173/).
